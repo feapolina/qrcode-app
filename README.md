@@ -13,7 +13,7 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/feapolina/QrCodeGenerator/
+  git clone https://github.com/feapolina/app-qrcode/
 ```
 
 Vá para o diretorio do projeto
