@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/app-qrcode",
+  base: "/app-qrcode/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
