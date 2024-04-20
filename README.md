@@ -6,7 +6,7 @@
 
 ## Como Usar
 - Você pode acessar o projeto aqui:
-  (https://feapolina.github.io/QrCodeGenerator/)
+  (https://feapolina.github.io/app-qrcode/)
 
 ## Executar Localmente
 
