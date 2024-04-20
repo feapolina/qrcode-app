@@ -6,14 +6,14 @@
 
 ## Como Usar
 - Você pode acessar o projeto aqui:
-  (https://feapolina.github.io/QrCodeGenerator/)
+  (https://feapolina.github.io/app-qrcode/)
 
 ## Executar Localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/feapolina/QrCodeGenerator/
+  git clone https://github.com/feapolina/app-qrcode/
 ```
 
 Vá para o diretorio do projeto
