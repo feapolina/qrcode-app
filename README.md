@@ -1,19 +1,21 @@
-# QrCodeGenerator
- A javascript based qrcode generator.
+![Imagem do meu projeto](./photo02.png)
 
+# QRCode Generator
+ Um gerador de QRCode que atualiza o qrcode em tempo real conforme você escreve. Vale a pena relembrar que QRCodes não funcionam apenas para links, e que são uma forma de abstrair dados em formato de imagem.
+ 
 ## Recursos Principais
-- Possibilidade de criar um QRCODE a partir de um link.
+- Possibilidade de criar um QRCODE a partir de um link ou texto.
 
 ## Como Usar
 - Você pode acessar o projeto aqui:
-  (https://feapolina.github.io/app-qrcode/)
+  (https://feapolina.github.io/qrcode-app/)
 
 ## Executar Localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/feapolina/app-qrcode/
+  git clone https://github.com/feapolina/qrcode-app/
 ```
 
 Vá para o diretorio do projeto
@@ -26,10 +28,10 @@ Vá para o diretorio do projeto
 ## Tecnologias Utilizadas
 
 ### Back end:
-Javascript, para criação da lógica da aplicação do game.
+- Typescript, para criação da lógica da aplicação do site.
 
 ### Front end:
-- HTML e CSS.
+- ReactJS, com Lucide e Shadcn.
 
 
 ## Autores:
